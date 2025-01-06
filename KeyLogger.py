@@ -1,7 +1,6 @@
 # Keylogger for Educational Purposes
 # DISCLAIMER: This code is provided strictly for educational and testing purposes.
 # Misuse of this script to monitor or log unauthorized keystrokes is illegal and unethical.
-# Please ensure you have explicit permission to use this script.
 
 import os
 import time
